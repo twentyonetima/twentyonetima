@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ## Languages and Tools
 
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=ff9129)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=ff9129)
