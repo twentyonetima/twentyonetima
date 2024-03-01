@@ -20,7 +20,7 @@ This is the place where I opensource stuff and break things :rofl:
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=ff9129)
 ![MySql](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![FastAP](https://img.shields.io/badge/-FastAP-090909?style=for-the-badge&logo=FastAP&logoColor=36ff70)
+![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=FastAPI&logoColor=36ff70)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=ffca89)
 
 ## Skills
