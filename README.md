@@ -29,13 +29,13 @@ This is the place where I opensource stuff and break things :rofl:
 
 |        Skill         | 1<br>Introduction |  2<br>Basics  |   3<br>Good   | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome |
 | :------------------: | :---------------: | :-----------: | :-----------: | :--------------: | :------------: | :----------: |
-|  **Python**          |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done] |              |
-|    **Django**        |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done] |              |
+|  **Python**          |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |              |
+|    **Django**        |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |              |
 |      **FastAPI**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |              |
 |       **Flask**      |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
 | **OOP**              |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
 | **Code Style**       |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
 |       **JS**         |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
 | **Algotithms and DS**|   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
-| **Databases**        |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
+| **Databases**        |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |              |
 | **Design Patterns**  |   ![done][done]   | ![done][done] |               |                  |                |              |
