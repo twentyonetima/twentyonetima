@@ -34,7 +34,7 @@ This is the place where I opensource stuff and break things :rofl:
 |      **FastAPI**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |              |
 |       **Flask**      |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
 | **OOP**              |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
-| **Code Style**       |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
+| **Code Style**       |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |              |
 |       **JS**         |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
 | **Algotithms and DS**|   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
 | **Databases**        |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |              |
