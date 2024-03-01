@@ -25,5 +25,17 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## Skills
 
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=ff9129)
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=ff9129)
+[done]: https://github.com/twentyonetima/twentyonetima/blob/main/static/lildone.png "Done"
+
+|        Skill         | 1<br>Introduction |  2<br>Basics  |   3<br>Good   | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome |
+| :------------------: | :---------------: | :-----------: | :-----------: | :--------------: | :------------: | :----------: |
+|  **Python**          |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done] |              |
+|    **Django**        |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done] |              |
+|      **FastAPI**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |              |
+|       **Flask**      |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
+| **OOP**              |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
+| **Code Style**       |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
+|       **JS**         |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
+| **Algotithms and DS**|   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
+| **Databases**        |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
+| **Design Patterns**  |   ![done][done]   | ![done][done] |               |                  |                |              |
